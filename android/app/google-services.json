@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "227117946330",
+    "firebase_url": "https://quizie-quizz-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "quizie-quizz",
+    "storage_bucket": "quizie-quizz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227117946330:android:fec2656b8c28c99e2b1ce3",
+        "android_client_info": {
+          "package_name": "com.kbj.quizie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIuDIT-qr7HVPYIE5U4QOzDQGgSULFeLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

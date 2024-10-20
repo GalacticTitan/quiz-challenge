@@ -1,0 +1,28 @@
+{
+  "hosting": [
+    {
+      "site": "quizie-prod-app",
+      "public": "build/web",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ],
+      "frameworksBackend": {
+        "region": "asia-east1"
+      }
+    },
+    {
+      "site": "quizie-stage-app",
+      "public": "build/web",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ],
+      "frameworksBackend": {
+        "region": "asia-east1"
+      }
+    }
+  ]
+}
